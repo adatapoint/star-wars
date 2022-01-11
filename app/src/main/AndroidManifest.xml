@@ -10,7 +10,8 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.StarWars">
         <activity
-            android:name=".MainActivity"
+            android:name=".scenes.MainActivity"
+            android:windowSoftInputMode="adjustResize"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

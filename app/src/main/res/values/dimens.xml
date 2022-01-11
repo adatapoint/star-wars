@@ -1,0 +1,8 @@
+<resources>
+    <dimen name="logo_width">300dp</dimen>
+    <dimen name="logo_height">170dp</dimen>
+
+    <!-- Buttons -->
+    <dimen name="button_large">180dp</dimen>
+    <dimen name="button_text_size">24sp</dimen>
+</resources>
